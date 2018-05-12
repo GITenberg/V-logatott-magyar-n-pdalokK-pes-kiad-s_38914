@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39570
     wikipedia: http://hu.wikipedia.org/wiki/Erd%C3%A9lyi_J%C3%A1nos_%28k%C3%B6lt%C5%91%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38914#V-logatott-magyar-n-pdalokK-pes-kiad-s
 gutenberg_issued: '2012-02-18'
 gutenberg_type: Text
 identifiers:
