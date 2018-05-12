@@ -1,0 +1,31 @@
+_repo: V-logatott-magyar-n-pdalokK-pes-kiad-s_38914
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erdélyi, János
+    alias: Erdelyi, Janos
+    birthdate: 1814
+    deathdate: 1868
+    gutenberg_agent_id: '39570'
+    url: http://www.gutenberg.org/2009/agents/39570
+    wikipedia: http://hu.wikipedia.org/wiki/Erd%C3%A9lyi_J%C3%A1nos_%28k%C3%B6lt%C5%91%29
+description: ''
+gutenberg_issued: '2012-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38914'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk songs, Hungarian'
+- !lcc 'PH'
+- !lcsh 'Hungarian poetry'
+title: 'Válogatott magyar népdalok
+
+  Képes kiadás'
+url: http://www.gutenberg.org/ebooks/38914
